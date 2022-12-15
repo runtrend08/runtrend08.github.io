@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My New Hugo Site</title>
+    <link>https://runtrend08.github.io/</link>
+    <description>Recent content on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 14 Dec 2022 23:45:25 +0800</lastBuildDate><atom:link href="https://runtrend08.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Blueboy Blog</title>
+      <link>https://runtrend08.github.io/post/blog/</link>
+      <pubDate>Wed, 14 Dec 2022 23:45:25 +0800</pubDate>
+      
+      <guid>https://runtrend08.github.io/post/blog/</guid>
+      <description>Pan Wang（王攀） 南京邮电大学 研究员 博士生导师。1979年9月生，现为南京邮电大学现代邮政学院教师，信息网络研究所副所长，江苏省通信与网络技术工程研究中心副主任。中国通信学会信息网络专委会委员、江苏省通信学会信息通信网络专委会委员、江苏省通信学会邮政通信专委会委员。入选江苏省“六大人才高峰”、苏州工业园区“领军人才”、常州市“龙城英才”、成都高新区“领军人才”。近年来主持国家自然科学基金面上项目、国家重点研发计划子课题、国家发改委信息安全专项资金项目、工信部工业互联网试点示范项目、江苏省产学研联合前瞻项目，并承担中国电信、江苏电力等企业横向合作项目。作为第一作者，在国内外核心期刊和会议上发表学术论文30余篇，SCI/EI收录20余篇；获得国家发明专利授权12项。曾获中国电子学会二等奖、中国通信学会二等奖、江苏省科技进步三等奖、南京市科技进步三等奖等。
+招聘 我们研究组常年招聘博士后、博/硕士研究生和访问学生，有兴趣的同学请邮件联系我！E-mail:wangpan@njupt.edu.cn
+学术博士：一级学科：信息与通信工程；二级学科：信息网络； 专业博士：电子信息（信息通信） 教育和工作背景 研究员，博士生导师，南京邮电大学，中国，2004.4-至今
+访问学者，戴顿大学，美国，2017.10-2018.4
+博士（信息网络），南京邮电大学，中国，2006.4-2013.4
+硕士（计算机应用），南京邮电大学，中国，2001.9-2004.4
+本科（电磁场与微波技术），南京邮电大学，中国，1997.9-2001.7
+研究领域 人工智能技术和网络安全、云安全、物联网安全；包括深度学习、联邦学习、生成对抗网络、强化学习等； 工业互联网、物联网、5G专网的端到端性能感知、测量、控制和优化； 面向家庭的边缘计算和网络安全、应用性能监控、异常行为检测、客户感知质量测量和优化，包括5G CPE、家庭智能网关、家庭TV盒子等； 大数据。。。 学术论文 会议论文 Pan Wang, Yiqing Zhou, Feng Ye, Hao Yue. [Data Interpolation for Deep Learning based Encrypted Data Packet Classification.](Data Interpolation for Deep Learning based Encrypted Data Packet Classification | IEEE Conference Publication | IEEE Xplore) In the Proceedings of Conference on Computing, Networking and Communications (ICNC), Honolulu, USA, February 18-21，2019.</description>
+    </item>
+    
+  </channel>
+</rss>
